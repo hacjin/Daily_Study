@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;Algorhythm/src/disjointSet_0828&apos;&#x0D;&#x0A;- Original project: &apos;0828&apos;&#x0D;&#x0A;- Destination element: &apos;Algorhythm/src/disjointSet_0828&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     DisjointSetTest.java&#x0D;&#x0A;     Solution_D4_3124_최소스패닝트리_이학진2.java&#x0D;&#x0A;     Solution_D4_3124_최소스패닝트리_이학진.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Algorhythm/src&lt;disjointSet_0828" element1="/src&lt;{DisjointSetTest.java" element2="/src&lt;{Solution_D4_3124_최소스패닝트리_이학진2.java" element3="/src&lt;{Solution_D4_3124_최소스패닝트리_이학진.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1578565603425" units="3" version="1.0"/>
+</session>
