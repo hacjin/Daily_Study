@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move 3 elements to &apos;Algorhythm/src/solve_1002&apos;&#x0D;&#x0A;- Original project: &apos;1002&apos;&#x0D;&#x0A;- Destination element: &apos;Algorhythm/src/solve_1002&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Main_6987_월드컵_이학진_미해결.java&#x0D;&#x0A;     Solution_4301_D4_콩많이심기_이학진.java&#x0D;&#x0A;     Main_6987_월드컵_강사님.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="=Algorhythm/src&lt;solve_1002" element1="/src&lt;{Main_6987_월드컵_이학진_미해결.java" element2="/src&lt;{Solution_4301_D4_콩많이심기_이학진.java" element3="/src&lt;{Main_6987_월드컵_강사님.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1578566371528" units="3" version="1.0"/>
-</session>
