@@ -45,3 +45,6 @@ sketch
 
 .metadata
 .recommenders
+
+# eclipse
+Algorithm/.*
