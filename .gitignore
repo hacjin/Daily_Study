@@ -47,4 +47,14 @@ sketch
 .recommenders
 
 # eclipse
-Algorithm/.*
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
