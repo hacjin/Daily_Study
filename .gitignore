@@ -47,4 +47,7 @@ sketch
 .recommenders
 
 # eclipse
-Algorithm/.*
+Algorithm/.settings
+Algorithm/.classpath
+Algorithm/.project
+Algorithm/bin
