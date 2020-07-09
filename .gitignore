@@ -48,13 +48,13 @@ sketch
 
 # eclipse
 .metadata
-bin/
-tmp/
+Algorithm/bin/
+Algorithm/tmp/
 *.tmp
 *.bak
 *.swp
 *~.nib
 local.properties
-.settings/
+Algorithm/.settings/
 .loadpath
 .recommenders
