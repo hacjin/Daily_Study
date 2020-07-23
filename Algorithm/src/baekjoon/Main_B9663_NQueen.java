@@ -37,5 +37,49 @@ public class Main_B9663_NQueen {
 		go(cnt+1,x,y++,arr,N);
 		arr[x][y] = 0;
 	}
+	
+	/* 참고 코드 
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int N = Integer.parseInt(br.readLine());
+		
+		int arr[] = new int[N];
+		result = 0;
+		for (int i = 0; i < N; i++) {
+			arr[0] = i;
+			
+			go(1,arr,N);
+			
+			arr[0] = 0;
+		}
+		System.out.println(result);
+	}
 
+	private static void go(int index, int[] arr, int N) {
+		if(index == N) {
+			result++;
+			return;
+		}
+		for (int i = 0; i < N; i++) {
+			arr[index] = i;
+			if(isPossible(index,arr)) {
+				go(index+1,arr,N);
+			}else {
+				arr[index] = 0;
+			}
+		}
+	}
+
+	private static boolean isPossible(int index,int[] arr) {
+		for (int i = 0; i < index; i++) {
+			if(arr[i] == arr[index]) {
+				return false;
+			}
+			if(Math.abs(arr[i]-arr[index]) == Math.abs(i-index)) {
+				return false;
+			}
+		}
+		return true;
+	}
+	*/
 }
